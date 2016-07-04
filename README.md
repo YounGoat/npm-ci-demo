@@ -41,6 +41,7 @@ You should have all these tools installed before doing exercise. And, you should
 #   References
 
 tools, protocols and standards:
+*   [Keep a CHANGELOG](http://keepachangelog.com/)
 *   [Semantic Versioning 2.0.0](http://semver.org)
 *   [Sentimental Versioning, Version One dot Oh, Erm...](http://sentimentalversioning.org)
 *   [npm-dist-tag, Modify package distribution tags](https://docs.npmjs.com/cli/dist-tag)
