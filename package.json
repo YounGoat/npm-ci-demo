@@ -1,23 +1,23 @@
 {
-  "name": "npm-ci-demo",
-  "version": "1.0.0",
-  "description": "an exercise about continuous delivery of npm module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YounGoat/npm-ci-demo.git"
-  },
-  "keywords": [
-    "semantic",
-    "release"
-  ],
-  "author": "Triver YounGoat <youngoat@163.com> (http://youngoat.github.io/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/YounGoat/npm-ci-demo/issues"
-  },
-  "homepage": "https://github.com/YounGoat/npm-ci-demo#readme"
+    "name": "npm-ci-demo",
+    "version": "1.0.0",
+    "description": "an exercise about continuous delivery of npm module",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YounGoat/npm-ci-demo.git"
+    },
+    "keywords": [
+        "semantic",
+        "release"
+    ],
+    "author": "Triver YounGoat <youngoat@163.com> (http://youngoat.github.io/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/YounGoat/npm-ci-demo/issues"
+    },
+    "homepage": "https://github.com/YounGoat/npm-ci-demo#readme"
 }
