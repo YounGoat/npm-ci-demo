@@ -1,5 +1,7 @@
 #   NPM CI Demo
 
+[![Build Status](https://travis-ci.org/YounGoat/npm-ci-demo.svg?branch=master)](https://travis-ci.org/YounGoat/npm-ci-demo)
+
 This is an exercise about continuous delivery of NPM library or software.
 
 #   Terms
