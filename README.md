@@ -1,6 +1,7 @@
 #   NPM CI Demo
 
 [![Build Status](https://travis-ci.org/YounGoat/npm-ci-demo.svg?branch=master)](https://travis-ci.org/YounGoat/npm-ci-demo)
+[![Coverage Status](https://coveralls.io/repos/github/YounGoat/npm-ci-demo/badge.svg?branch=master)](https://coveralls.io/github/YounGoat/npm-ci-demo?branch=master)
 
 This is an exercise about continuous delivery of NPM library or software.
 
