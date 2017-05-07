@@ -40,6 +40,9 @@ You should have all these tools installed before doing exercise. And, you should
 
 3.  ... to be continued ...
 
+#	Integrations
+
+*	[Travis CI](./travis-ci/index.md)
 
 #   References
 
