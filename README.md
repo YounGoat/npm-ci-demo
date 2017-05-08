@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/YounGoat/npm-ci-demo.svg?branch=master)](https://travis-ci.org/YounGoat/npm-ci-demo)
 [![Coverage Status](https://coveralls.io/repos/github/YounGoat/npm-ci-demo/badge.svg?branch=master)](https://coveralls.io/github/YounGoat/npm-ci-demo?branch=master)
+[![Code Climate](https://codeclimate.com/github/YounGoat/npm-ci-demo/badges/gpa.svg)](https://codeclimate.com/github/YounGoat/npm-ci-demo)
 [![Known Vulnerabilities](https://snyk.io/test/github/youngoat/npm-ci-demo/badge.svg)](https://snyk.io/test/github/youngoat/npm-ci-demo)
 
 This is an exercise about continuous delivery of NPM library or software.
