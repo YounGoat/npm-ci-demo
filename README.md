@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/YounGoat/npm-ci-demo.svg?branch=master)](https://travis-ci.org/YounGoat/npm-ci-demo)
 [![Coverage Status](https://coveralls.io/repos/github/YounGoat/npm-ci-demo/badge.svg?branch=master)](https://coveralls.io/github/YounGoat/npm-ci-demo?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/youngoat/npm-ci-demo/badge.svg)](https://snyk.io/test/github/youngoat/npm-ci-demo)
 
 This is an exercise about continuous delivery of NPM library or software.
 
@@ -43,6 +44,8 @@ You should have all these tools installed before doing exercise. And, you should
 #	Integrations
 
 *	[Travis CI](./travis-ci/index.md)
+*	[Coveralls](./coveralls/index.md)
+*	[Synk](./synk/index.md)
 
 #   References
 

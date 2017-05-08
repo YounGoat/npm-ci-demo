@@ -22,5 +22,3 @@ Then, itegreate travis-ci.org to your project in only THREE steps:
 
 *	Offcial Site  
 	https://travis-ci.org
-
-	*
