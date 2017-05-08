@@ -1,5 +1,12 @@
 #	CodeClimate
 
+##	Badges
+
+Open next URL to obtain badges:
+```
+https://codeclimate.com/github/<userName>/<repoName>/badges
+```
+
 ## 	SEE
 
 *	Use Engine ESLint In CodeClimate
