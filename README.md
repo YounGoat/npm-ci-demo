@@ -42,6 +42,10 @@ You should have all these tools installed before doing exercise. And, you should
 
 3.  ... to be continued ...
 
+#	Culture Background
+
+To know more about the world you live in, [see here](./culture/index.md).
+
 #	Integrations
 
 *	[Travis CI](./travis-ci/index.md)
